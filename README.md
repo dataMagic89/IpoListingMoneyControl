@@ -8,3 +8,5 @@ Deeplearning Classification model is built using Sequential API from deeplearnin
 And, then the model is compiled, trained, tested and the performance is evaluated. 
 
 Model Parameters are tunned to improve the performance of the model. 
+
+Please have a look at the attached notebook for further details.
